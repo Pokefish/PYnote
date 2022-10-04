@@ -4,6 +4,15 @@
 - lang : Python3 
 - IDE : VScode
 
+## 大綱
+- [安裝 pyenv & virtualenv](#安裝-pyenv--virtualenv)
+    - [pyenv](#pyenv)
+    - [virtualenv](#virtualenv)
+    - [pipenv](#pipenv)
+- [環境設置](#環境設置)
+- [版本設置](#版本設置)
+- [資源包(待續)](#資源包)
+
 ## 安裝 pyenv & virtualenv
 ### pyenv
 > 管理虛擬環境的python
