@@ -28,11 +28,11 @@ pip3 install virtualenv
     
         只有 **＊system**
 
-        ![下載前](../PYnote/img/virtualEnv1.png)
+        ![下載前](./img/virtualEnv1.png)
 
     - 下載後
 
-        ![下載後](../PYnote/img/virtualEnv2.png)
+        ![下載後](./img/virtualEnv2.png)
 
 4. 換到所需版後
 
