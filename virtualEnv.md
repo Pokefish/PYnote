@@ -13,7 +13,26 @@
 pip3 install virtualenv
 ```
 ## 環境設置
+1. 建立虛擬環境（資料夾型態）
+    ```shell
+    cd <你要的資料夾>
+    ```
+    ```shell
+    virtualenv <自命名虛擬環境 資料夾>
+    ```
 
+2. 使用虛擬環境
+    ```shell
+    source <自命名虛擬環境 資料夾>/bin/activate
+
+    ```
+
+3. 退出虛擬環境
+    ```shell
+    deactivate
+    ```
+
+## 版本設置
 1. 列出可供下載的版號
 
     `pyenv install --list`
@@ -38,6 +57,8 @@ pip3 install virtualenv
 
     `pyenv global 3.x.x`
     
+    > **＊ 3.x.x**
+
     - global : 全域設定
     - local : 區域設定
     - shell : 當前 shell 設定
