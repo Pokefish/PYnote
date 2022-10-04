@@ -42,6 +42,7 @@ pip3 install virtualenv
     `pyenv install 3.x.x`
 
 3. 查看目前 pyenv 擁有的版號
+    
     `pyenv persions`
     - 下載前
     
