@@ -86,6 +86,7 @@ pip3 install pipenv
 
 
 ## 資源包
+> 待續
 
 1. 查看資源包    
     > 會顯示當前版本有的資源包，若在system就顯示system的
