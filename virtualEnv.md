@@ -25,14 +25,6 @@ brew install pyenv
 ```shell
 pip3 install virtualenv
 ```
-### pipenv 
-> 管理虛擬環境的資源包(待續...)
-
-```
-pip3 install pipenv
-
-```
-
 
 ## 環境設置
 1. 建立虛擬環境（資料夾型態）
@@ -98,8 +90,11 @@ pip3 install pipenv
 > 待續
 
 1. 查看資源包    
-    > 會顯示當前版本有的資源包，若在system就顯示system的
+    > 會顯示當前虛擬環境有的資源包
     ```shell
-    pip3 list 
+    pyenv exec pip3 list 
     ```
-2. 
+2. 安裝資源包
+    ```shell 
+    pyenv exec pip3 install .... 
+    ```
