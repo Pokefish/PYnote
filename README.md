@@ -5,4 +5,3 @@
 ### 時間順序流（暫時）
 1. [virtualEnv](PYnote/virtualEnv.md)
     > 關於 pyenv 的安裝與使用
-2. 
